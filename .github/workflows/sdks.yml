@@ -1,5 +1,9 @@
 name: SDKs
 on:
+  workflow_dispatch:
+  push:
+    branches:
+      - 'codex/**'
   pull_request:
   schedule:
     - cron: '0 5 * * *'
