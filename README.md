@@ -225,3 +225,5 @@ tarballs for eleven Swift repos and renames them to `llvm-project/`, `swift/`,
 `swift-corelibs-foundation`, `swift-collections`, `swift-foundation`,
 `swift-foundation-icu`, `swift-corelibs-xctest`, and `swift-testing`, as required
 by the Swift `build-script`.
+
+<!-- trigger: build-sdk-624 -->
